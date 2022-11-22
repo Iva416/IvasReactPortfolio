@@ -1,10 +1,17 @@
 import React from 'react';
+import IvaResume from '../../images/IVA.png';
+import IvaResumePdf from '../IVA.pdf';
 
 export default function Resume() {
   return (
-    <div ClassName="resumetext">
+    <div>
       <h1>Resume</h1>
-      <p></p>
+      <div>
+        <a href={IvaResumePdf} download>
+          Download Link
+        </a>
+      </div>
+      <img id="ivaresume" src={IvaResume} />
     </div>
   );
 }
