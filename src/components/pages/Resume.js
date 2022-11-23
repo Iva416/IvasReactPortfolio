@@ -4,7 +4,7 @@ import IvaResumePdf from '../IVA.pdf';
 
 export default function Resume() {
   return (
-    <div>
+    <div className="projectscontent">
       <h1>Resume</h1>
       <div>
         <a href={IvaResumePdf} download>
