@@ -72,6 +72,13 @@ h1 {
   margin: auto;
 }
 
+#ivr {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border-radius: 20%;
+}
+
 #ivaresume {
   width: 590px;
   height: 700px;
