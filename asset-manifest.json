@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IvasReactPortfolio/static/css/main.10ddef23.css",
+    "main.js": "/IvasReactPortfolio/static/js/main.fcedd056.js",
+    "static/media/IVA.png": "/IvasReactPortfolio/static/media/IVA.9194231a68263df827f2.png",
+    "static/media/Musichub.png": "/IvasReactPortfolio/static/media/Musichub.c3cee20e52bdf8af98fb.png",
+    "static/media/portfolio.png": "/IvasReactPortfolio/static/media/portfolio.1155a2330a5162bf0405.png",
+    "static/media/Yourstore.png": "/IvasReactPortfolio/static/media/Yourstore.c3b3e7da9781f8498761.png",
+    "static/media/IVA.pdf": "/IvasReactPortfolio/static/media/IVA.dd3fe20f58e819c411a8.pdf",
+    "static/media/weatherdashboard.png": "/IvasReactPortfolio/static/media/weatherdashboard.8165151682b28c32fbef.png",
+    "static/media/quiz.png": "/IvasReactPortfolio/static/media/quiz.7bd478b05c7133081320.png",
+    "static/media/Logo2.png": "/IvasReactPortfolio/static/media/Logo2.3e2212ccbd7b8e6f22b0.png",
+    "static/media/notetaker.png": "/IvasReactPortfolio/static/media/notetaker.ef174f3b5d85000bd749.png",
+    "index.html": "/IvasReactPortfolio/index.html",
+    "main.10ddef23.css.map": "/IvasReactPortfolio/static/css/main.10ddef23.css.map",
+    "main.fcedd056.js.map": "/IvasReactPortfolio/static/js/main.fcedd056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ddef23.css",
+    "static/js/main.fcedd056.js"
+  ]
+}
