@@ -1,7 +1,35 @@
 .abouttext {
   background-color: rgb(10, 10, 10);
+  text-align: center;
+  padding-top: 65px;
+}
+
+.contacttext {
   justify-content: center;
   margin: auto;
+  text-align: center;
+  padding-top: 65px;
+  width: 40%;
+}
+
+.card {
+  display: flexbox;
+}
+
+.d-block {
+  justify-content: center;
+  margin: auto;
+}
+.projectstext {
+  justify-content: center;
+  text-align: center;
+  padding-top: 200px;
+  display: flex;
+  color: rgb(7, 6, 6);
+}
+
+.resumecontent {
+  justify-content: center;
   text-align: center;
   padding-top: 65px;
 }
@@ -19,7 +47,8 @@
 h1 {
   font-family: 'Caveat', cursive;
   color: rgb(34, 210, 241);
-  font-weight: 80;
+  font-size: 28;
+  padding-top: 65;
 }
 
 #root {
@@ -34,8 +63,8 @@ h1 {
 }
 
 #logo {
-  width: 600px;
-  height: 600px;
+  width: 560px;
+  height: 560px;
   text-align: center;
   display: block;
   justify-content: center;
