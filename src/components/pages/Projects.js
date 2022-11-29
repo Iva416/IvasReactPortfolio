@@ -4,6 +4,7 @@ import Yourstore from '../../images/Yourstore.png';
 import Quiz from '../../images/quiz.png';
 import Portfolio from '../../images/portfolio.png';
 import weather from '../../images/weatherdashboard.png';
+import workoutbuddy from '../../images/workoutbuddy.png';
 import Note from '../../images/notetaker.png';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
@@ -39,6 +40,18 @@ export default function Projects() {
               <a href="https://github.com/Iva416/yourStore">Github</a>
             </div>
             <a href="https://your-store-jibstudios.herokuapp.com">Website</a>
+          </Card.Text>
+        </Card.Body>
+      </Card>
+      <Card style={{ width: '18rem' }}>
+        <Card.Body>
+          <Card.Title>WorkoutBuddy</Card.Title>
+          <img className="d-block w-100" src={workoutbuddy} />
+          <Card.Text>
+            <div>
+              <a href="https://github.com/Iva416/WorkoutBuddy">Github</a>
+            </div>
+            <a href="https://workout-buddy-01.herokuapp.com/">Website</a>
           </Card.Text>
         </Card.Body>
       </Card>
